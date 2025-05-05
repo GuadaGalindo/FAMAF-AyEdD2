@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Archivos de compilación
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Archivos temporales de editores
+*~
+*.swp
+*.swo
+
+# Archivos de Make
+Makefile~
+
+# Archivos de depuración
+core
